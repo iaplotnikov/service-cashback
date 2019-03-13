@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.com/iaplotnikov/service-cashback.svg?branch=master)](https://travis-ci.com/iaplotnikov/service-cashback)
+[![Build Status](https://travis-ci.com/iaplotnikov/service-cashback.svg?branch=master)](https://travis-ci.com/iaplotnikov/service-cashback)[![codecov](https://codecov.io/gh/iaplotnikov/service-cashback/branch/master/graph/badge.svg)](https://codecov.io/gh/iaplotnikov/service-cashback)
 # Cashback Service
